@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Aaditya</h1>
 <p>I'm a software developer and content creator who builds amazing things. I love working on open source projects and sharing my knowledge with others.</p>
+<p><a href="https://adi-portfoli0.netlify.app/" target="_blank">🔗 Portfolio</a></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
