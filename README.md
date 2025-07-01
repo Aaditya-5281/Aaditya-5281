@@ -2,7 +2,7 @@
 
 <p>• I'm a <b> Software Engineer </b> and <b> Content Creator </b> who builds amazing things.</p> 
 <p>• I love <b> Building Projects </b> and sharing my <b> knowledge </b> with others.</p>
-<p><a href="https://adi-portfoli0.netlify.app/" target="_blank">🔗 Portfolio</a></p>
+
 <h2>⚡️ Where to find me</h2>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-2-0-aaditya.vercel.app/)
