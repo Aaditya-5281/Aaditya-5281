@@ -10,6 +10,6 @@
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aadityakumar26082004)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20147785/aaditya-kumar)
 [![cal.com](https://img.shields.io/badge/cal.com-000000?style=for-the-badge&logo=cal&logoColor=white)](https://cal.com/aaditya-kumar-5281)
-[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityakumar26082004@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityakumar4042@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-kumar-0b662224a/)
 
